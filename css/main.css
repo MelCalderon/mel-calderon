@@ -2026,7 +2026,7 @@ html.no-csstransitions .home-content__main {
 .s-about {
     padding-top: 5.2rem;
     padding-bottom: 9rem;
-    background-color: #ff2d2d;
+    background-color: #b3b3b3;
     color: #010507;
     position: relative;
 }
@@ -2235,6 +2235,13 @@ html.no-csstransitions .home-content__main {
     font-size: 4.8rem;
     margin-top: -.6rem;
 }
+.services-list .education-icon {
+    float: left;
+    color: #ffffff;
+    font-size: 4.8rem;
+    margin-top: -.6rem;
+}
+
 
 
 /* ------------------------------------------------------------------- 
