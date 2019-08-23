@@ -91,6 +91,11 @@ h5, .h5, h6, .h6 {
     h5, .h5, h6, .h6 {
         margin-top: 3.6rem;
         margin-bottom: 0.9rem;
+        text-align: left;
+    }
+    .icon-toggles {
+        align-items: center;
+
     }
 }
 
@@ -2289,7 +2294,7 @@ html.no-csstransitions .home-content__main {
     .services-list {
         margin-top: 4.2rem;
         max-width: 500px;
-        text-align: center;
+        text-align: justify;
     }
     .services-list .service-item:nth-child(n) {
         padding-right: 15px;
@@ -2305,6 +2310,7 @@ html.no-csstransitions .home-content__main {
         font-size: 4.5rem;
         float: none;
         margin-top: 0;
+        text-align: center;
     }
 }
 
@@ -2318,6 +2324,7 @@ html.no-csstransitions .home-content__main {
     }
     .services-list h3 {
         font-size: 2.5rem;
+        text-align: center;
     }
 }
 
