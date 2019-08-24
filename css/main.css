@@ -103,7 +103,7 @@ h1, .h1 {
     font-size: 3.6rem;
     line-height: 1.25;
     letter-spacing: -.1rem;
-    text-align: center;
+    text-align: initial;
 }
 
 @media only screen and (max-width: 600px) {
@@ -132,7 +132,7 @@ h4, .h4 {
 h5, .h5 {
     font-size: 1.6rem;
     line-height: 1.313;
-    text-align: center;
+    text-align: initial;
 }
 
 h6, .h6 {
@@ -1169,7 +1169,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
     font-family: 'Montserrat', sans-serif;
     font-size: 3em;
     line-height: 1.25;
-    color: #000000;
+    color: #ffffff;
     margin-top: 0;
 }
 
@@ -1180,7 +1180,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 .display-2 {
     font-family: 'Montserrat', sans-serif;
     font-size: 5.2rem;
-    line-height: 1.255;
+    line-height: 1.25;
     color: #000000;
     margin-top: 0;
 }
@@ -2877,6 +2877,7 @@ html.no-csstransitions .home-content__main {
 .contact-content h5 {
     margin-top: 0;
     color: #ff2d2d;
+    text-align: inherit;
 }
 
 .contact-content input[type="email"],
