@@ -132,6 +132,7 @@ h4, .h4 {
 h5, .h5 {
     font-size: 1.6rem;
     line-height: 1.313;
+    text-align: center;
 }
 
 h6, .h6 {
@@ -1603,7 +1604,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
     position: absolute;
     top: 0;
     left: -70px;
-    width: 100px;
+    width: 115px;
     padding-left: 8px;
     font-size: 1em;
 }
