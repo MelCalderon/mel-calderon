@@ -366,8 +366,12 @@ li {
 a {
     text-decoration: none;
     line-height: inherit;
+    color: aliceblue;
 }
-
+a:hover {
+    
+    color:#ff2d2d;
+}
 a img {
     border: none;
         padding: 0 0em 0 0;
